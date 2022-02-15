@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginPassword</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_what_your_name">Введите ваше имя</string>
+    <string name="next">Продолжить</string>
+    <string name="putEmail">Почта</string>
+    <string name="putPassword">Пароль</string>
+    <string name="godbye">Инициализация успешна</string>
+</resources>
